@@ -1,5 +1,5 @@
 # SOLID
-## Um projeto de estudo com o apoio da Rocketseat, apredendo um pouco mais sobre SOLID.
+## Um projeto de estudo com o apoio da Rocketseat, aprendendo um pouco mais sobre SOLID.
 ## S — Single Responsiblity Principle (Princípio da responsabilidade única).
 ## O — Open-Closed Principle (Princípio Aberto-Fechado).
 ## L — Liskov Substitution Principle (Princípio da substituição de Liskov).
